@@ -1,3 +1,4 @@
+//este projeto é educativo
 #include <RF24.h>
 #include <esp_wifi.h>
 #include <Wire.h>
